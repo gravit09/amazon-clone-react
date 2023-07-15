@@ -1,0 +1,49 @@
+.checkout-card {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 5%;
+}
+
+.checkout-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 3%;
+}
+
+.checkout-data {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.checkout-img {
+  margin: 5px;
+  max-width: 20%;
+  height: 20%;
+}
+
+.checkout-rating {
+  display: flex;
+}
+
+button {
+  border-radius: 8px;
+  background-color: #ffd814;
+  border-style: none;
+  padding: 8px;
+  margin-top: 5px;
+  width: 150px; /* set the width of the button */
+}
+
+
+.cart-message{
+  padding-top: 5%;
+}
+
+.message2{
+  margin-top: 10%;
+}

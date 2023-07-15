@@ -1,0 +1,24 @@
+.subtotal {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  width: auto;
+}
+
+.subtotal > button {
+  border-radius: 8px;
+  background-color: #ffd814;
+  border-style: none;
+  padding: 5%;
+  margin-top: 5%;
+  width: 65%;
+}
+
+.checkout-message 
+{
+  margin-top: 5%;
+}
+
+.proceed-btn {
+  max-width: 80%;
+}

@@ -1,0 +1,40 @@
+.thanks-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .thanks-heading {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: #333;
+  }
+  
+  .thanks-text {
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    color: #555;
+    max-width: 600px;
+    line-height: 1.5;
+  }
+  
+  .thanks-btn {
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffd814;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .thanks-btn:hover {
+    background-color: #21867a;
+  }
+  
