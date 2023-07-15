@@ -6,8 +6,7 @@ This is a project that aims to replicate the basic functionalities of the Amazon
 
 - Product browsing: Users can view a list of products, search for specific products, and view individual product details.
 - Shopping cart: Users can add products to their cart, update quantities, and proceed to checkout.
-- Web scraping: A custom API built with Node.js is used to scrape data from the web and pass it to the frontend.
-
+- Rest Api : A rest api built using express.js is use to pass the product data to the frontend.
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/gravit09/amazon-clone.git`
